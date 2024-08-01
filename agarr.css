@@ -1,0 +1,21 @@
+
+body {
+margin: 0;
+display: flex;
+align-items: center;
+justify-content: center;
+  background-color: white;
+  color:#0f141e;
+ font-size: 50px;
+ font-weight:normal;
+ font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif;}
+
+.wrapper{
+width: 750px;
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+align-items: center;
+justify-content: center;
+}
+
